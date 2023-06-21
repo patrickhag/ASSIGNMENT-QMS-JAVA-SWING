@@ -50,4 +50,4 @@ Here is an overview of the workflow within the Quiz Management System:
 6. After completing the quiz, the user's score is displayed.
 
 ## Conclusion
-The Java Swing Quiz Management System provides an intuitive graphical interface for managing quizzes. It incorporates the MySQL database
+The Java Swing Quiz Management System provides an intuitive graphical interface for managing quizzes. It incorporates the MySQL database for data storage and retrieval and utilizes the rs2xml.jar library for efficient rendering of database records in Swing components. By following the documentation, you can develop, deploy, and customize the Quiz Management System according to your specific requirements.
